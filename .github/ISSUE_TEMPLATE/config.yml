@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 在线体验专家库
+    url: https://ao.aiolaola.com/experts
+    about: 在线浏览和试用所有 266 个 AI 专家角色
+  - name: 讨论区
+    url: https://github.com/jnMetaCode/agency-agents-zh/discussions
+    about: 使用讨论区进行提问、分享和反馈
